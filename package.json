@@ -2,8 +2,9 @@
   "name": "my-portfolio",
   "private": true,
   "version": "0.0.0",
-  "type": "module",
-  "scripts": {
+  "type": "module"
+}
+  "script": {
     "dev": "vite",
     "build": "npx vite build",
     "lint": "eslint .",
